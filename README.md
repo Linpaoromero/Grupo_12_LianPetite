@@ -15,5 +15,6 @@ Trabajo en la parte financiera y de proyectos, me encargo de realizar informes p
 
 * https://coralshop.co // es una tienda en linea que tiene una gran variedad de productos en focados a la mujer, su pagina es facil de navegar y muestran los productos de forma muy dinamica
 * https://www.indiebarber.com // es una pagina muy simple, le dan la importancia a sus productos y adicional muestra su compromiso ambiental al utilizar materiales reciclaods, adicional muestran tips del cuidado de sus prendas
+* https://giiveaway.com/ el diseno de la pagina es super amigable, te dan ganas de seguir mirando mas a profundida lo que tienen en su tienda
  
 
